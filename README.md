@@ -11,5 +11,13 @@ Local multiplayer tron game.
   - Openfl (8.3.0)
   - Lime (6.4.0)
   
+## To do
+- [X] HTML5 version
+- [X] Windows version
+- [X] Linux version
+- [ ] Mac version
+- [ ] Android
+- [ ] iOS
+  
 ## Can I help you?
 Of course ! By hitting the :star: button !
