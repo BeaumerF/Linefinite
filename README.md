@@ -1,7 +1,7 @@
 ![logo](./img/logo.png)
 
 # Linefinite
-Local multiplayer tron game.
+Local multiplayer 2D game.
 
 ![tron](./img/tron.gif)
 
@@ -16,8 +16,8 @@ Local multiplayer tron game.
 - [X] Windows version
 - [X] Linux version
 - [ ] Mac version
-- [ ] Android
-- [ ] iOS
+- [ ] Android version
+- [ ] iOS version
   
 ## Can I help you?
 Of course ! By hitting the :star: button !
