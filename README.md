@@ -1,9 +1,9 @@
-![logo](./img/logo.png)
+![logo](./assets/images/logo.png)
 
 # Linefinite
 Local multiplayer 2D game.
 
-![tron](./img/tron.gif)
+![tron](./assets/images/tron.gif)
 
 ## What does it use?
   - Haxe (3.4.7)
