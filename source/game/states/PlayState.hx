@@ -62,7 +62,7 @@ class PlayState extends FlxState
 		add(keysText);
 
 		// Create the player 1
-		_player1 = new Moto(screenMiddleX / 2 - BLOCK_SIZE * 2, screenMiddleY, FlxColor.CYAN, 
+		_player1 = new Moto(screenMiddleX / 2 - BLOCK_SIZE * 2, screenMiddleY, FlxColor.fromString("#DF7900"), 
 			FlxKey.Z, FlxKey.S, FlxKey.Q, FlxKey.D);
 
 		// Add player 1 moto to the board
@@ -70,7 +70,7 @@ class PlayState extends FlxState
 		add(_player1.getBody());
 
 		// Create the player 2
-		_player2 = new Moto((FlxG.width - screenMiddleX / 2) - BLOCK_SIZE * 2, screenMiddleY, FlxColor.GREEN, 
+		_player2 = new Moto((FlxG.width - screenMiddleX / 2) - BLOCK_SIZE * 2, screenMiddleY, FlxColor.fromString("#00B3F2"), 
 			FlxKey.UP, FlxKey.DOWN, FlxKey.LEFT, FlxKey.RIGHT);
 
 		// Add player 2 moto to the board
